@@ -7,7 +7,7 @@
 
 <h3 align="left"> Connect with me </h3>
 <p align="left">
-<a href=
+<a href="www.linkedin.com/in/ru-cpu2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-gupta-06309a233" height="30" width="40" /></a>
 
 <!---
 rd-sharma7/rd-sharma7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
