@@ -2,7 +2,7 @@
 <h3 align="center" > A Technoholic nerd who plays with python :) </h3>
 
 - 👋 I'm currently learning **python,HTML,CSS**
-- 👀 Ask me about **Google dorking , OSS**
+- 👀 Ask me about **Google dorking , OSS & technology**
 - 🗳️ How to reach me srudresh288@gmail.com
 
 <h3 align="left"> Connect with me </h3>
