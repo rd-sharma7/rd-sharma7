@@ -1,8 +1,13 @@
 <h1 align="center" >  Hi🤞 I'm Rudresh Sharma </h1>
-<h3 align="center" > A Technoholic nerd messing with computers </h3>
+<h3 align="center" > A Technoholic nerd who play with python :) </h3>
 
-- 👋 Hi, My name is Rudresh sharma ,This is my github Readme.md 
-- 👀 I’m interested in python programming with as pair java ,contributing to open source  project`s.I love to learn a tech stuff and making something out of this which crack up peoples to use this .
+- 👋 I'm currently learning **python,HTML,CSS**
+- 👀 Ask me about **Google dorking , OSS**
+- 🗳️ How to reach me srudresh288@gmail.com
+
+<h3 align="left"> Connect with me </h3>
+<p align="left">
+<a href=
 
 <!---
 rd-sharma7/rd-sharma7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
