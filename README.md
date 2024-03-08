@@ -3,7 +3,7 @@
 
 - 👋 I'm currently learning **python,HTML,CSS**
 - 👀 Ask me about **Google dorking , OSS & technology**
-- 🗳️ How to reach me srudresh288@gmail.com
+- 🗳️ How to reach me rudreshsharma533@gmail.com
 
 <h3 align="left"> Connect with me </h3>
 <p align="left">
