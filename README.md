@@ -1,6 +1,8 @@
 <h1 align="center" >  Hi🤞 I'm Rudresh Sharma </h1>
 <h3 align="center" > A Technoholic nerd who plays with python :) </h3>
 
+--- 
+
 - 👋 I'm currently learning **python,HTML,CSS**
 - 👀 Ask me about **Google dorking , OSS & technology**
 - 🗳️ How to reach me rudreshsharma533@gmail.com
