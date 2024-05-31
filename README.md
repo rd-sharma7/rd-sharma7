@@ -1,5 +1,5 @@
 <h1 align="center" >  Hi🤞 I'm Rudresh Sharma </h1>
-<h3 align="center" > A Technoholic nerd who plays with python :) </h3>
+<h3 align="center" > A Technoholic Nerd </h3>
 
 --- 
 
